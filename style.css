@@ -10,7 +10,7 @@ h2 {
 
 @font-face {
         font-family: MC;
-        src:url(../other/Minecraft.ttf)
+        src:url(Minecraft.ttf)
 }
 
 #content {
@@ -24,7 +24,7 @@ h2 {
 #pages {
 	 display: inline-block;
     box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.3);
-	 background-image: url(other/Types.png);
+	 background-image: url(Types.png);
 	 position: relative;
 	 margin-top: 20px;
 	 margin-left: 450px;
@@ -33,7 +33,7 @@ h2 {
 }
 
 #pages:hover {
-    background-image: url(other/Types_Hover.png);
+    background-image: url(Types_Hover.png);
 }
 
 #pages:active {
